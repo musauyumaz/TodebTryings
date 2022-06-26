@@ -1,0 +1,16 @@
+C:\Users\musau\Desktop\Todeb\TekrarKodlari\TekrarKodlari\bin\Debug\net5.0\TekrarKodlari.exe
+C:\Users\musau\Desktop\Todeb\TekrarKodlari\TekrarKodlari\bin\Debug\net5.0\TekrarKodlari.deps.json
+C:\Users\musau\Desktop\Todeb\TekrarKodlari\TekrarKodlari\bin\Debug\net5.0\TekrarKodlari.runtimeconfig.json
+C:\Users\musau\Desktop\Todeb\TekrarKodlari\TekrarKodlari\bin\Debug\net5.0\TekrarKodlari.runtimeconfig.dev.json
+C:\Users\musau\Desktop\Todeb\TekrarKodlari\TekrarKodlari\bin\Debug\net5.0\TekrarKodlari.dll
+C:\Users\musau\Desktop\Todeb\TekrarKodlari\TekrarKodlari\bin\Debug\net5.0\TekrarKodlari.pdb
+C:\Users\musau\Desktop\Todeb\TekrarKodlari\TekrarKodlari\obj\Debug\net5.0\TekrarKodlari.csproj.AssemblyReference.cache
+C:\Users\musau\Desktop\Todeb\TekrarKodlari\TekrarKodlari\obj\Debug\net5.0\TekrarKodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musau\Desktop\Todeb\TekrarKodlari\TekrarKodlari\obj\Debug\net5.0\TekrarKodlari.AssemblyInfoInputs.cache
+C:\Users\musau\Desktop\Todeb\TekrarKodlari\TekrarKodlari\obj\Debug\net5.0\TekrarKodlari.AssemblyInfo.cs
+C:\Users\musau\Desktop\Todeb\TekrarKodlari\TekrarKodlari\obj\Debug\net5.0\TekrarKodlari.csproj.CoreCompileInputs.cache
+C:\Users\musau\Desktop\Todeb\TekrarKodlari\TekrarKodlari\obj\Debug\net5.0\TekrarKodlari.dll
+C:\Users\musau\Desktop\Todeb\TekrarKodlari\TekrarKodlari\obj\Debug\net5.0\refint\TekrarKodlari.dll
+C:\Users\musau\Desktop\Todeb\TekrarKodlari\TekrarKodlari\obj\Debug\net5.0\TekrarKodlari.pdb
+C:\Users\musau\Desktop\Todeb\TekrarKodlari\TekrarKodlari\obj\Debug\net5.0\TekrarKodlari.genruntimeconfig.cache
+C:\Users\musau\Desktop\Todeb\TekrarKodlari\TekrarKodlari\obj\Debug\net5.0\ref\TekrarKodlari.dll
